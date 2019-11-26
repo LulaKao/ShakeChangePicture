@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShakeChange</string>
+    <string name="intro">搖晃手機變換顏色+圖片</string>
+    <string name="intro2">搖晃手機變換圖片</string>
+    <string name="change">切換範例</string>
+    <string name="action_settings">Settings</string>
+</resources>

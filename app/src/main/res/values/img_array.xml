@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="random_imgs">
+        <item>@mipmap/hw_bag</item>
+        <item>@mipmap/hw_balloons</item>
+        <item>@mipmap/hw_bat</item>
+        <item>@mipmap/hw_cauldron</item>
+        <item>@mipmap/hw_clown</item>
+        <item>@mipmap/hw_ghost</item>
+        <item>@mipmap/hw_owl</item>
+        <item>@mipmap/hw_pilgrim</item>
+        <item>@mipmap/hw_potion</item>
+        <item>@mipmap/hw_pumpkin</item>
+        <item>@mipmap/hw_scarecrow</item>
+        <item>@mipmap/hw_skeleton</item>
+        <item>@mipmap/hw_slime</item>
+        <item>@mipmap/hw_spellbook</item>
+        <item>@mipmap/hw_spider</item>
+        <item>@mipmap/hw_tomb</item>
+        <item>@mipmap/hw_tree</item>
+        <item>@mipmap/hw_vampire</item>
+        <item>@mipmap/hw_witch</item>
+        <item>@mipmap/hw_zombie</item>
+    </integer-array>
+</resources>
